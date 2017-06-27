@@ -1,0 +1,11 @@
+.metadata/
+.settings/
+target/
+.classpath
+.project
+*.bat
+*.db
+*.lck
+*.log
+*hsqldb.properties
+*.script
